@@ -1,0 +1,3 @@
+[submodule "public/18franklin"]
+	path = public/18franklin
+	url = git@github.com:18F/18franklin.git
