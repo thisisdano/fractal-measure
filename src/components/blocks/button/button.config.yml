@@ -1,0 +1,9 @@
+title: Example component
+status: prototype
+context:
+    addClasses: bg-red
+    text: buttonText
+variants:
+  - name: white
+    context:
+      addClasses: bg-white

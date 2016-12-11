@@ -1,0 +1,11 @@
+title: Example component
+context:
+    text:
+      - thing: hey.
+        word: Fuck!
+      - thing: is.
+        word: Shit!
+      - thing: this.
+        word: Ass!
+      - thing: on?
+        word: Cock!

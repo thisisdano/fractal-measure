@@ -1,0 +1,10 @@
+<div class="pv2 ph3 ma4 ba bw1 br2 cf fl">
+  <p class="f-3 pa0 ma0 fw7 sans-serif tc">
+  {% for item in text %}
+    {{ item.word | length }}
+  {% endfor %}
+  {% if text | length > 3 %}
+    {{ text[3].word }}
+  {% endif %}
+  </p>
+</div>
